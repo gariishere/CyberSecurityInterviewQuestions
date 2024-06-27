@@ -1,0 +1,49 @@
+**Try to prepare answers to the following questions:**
+
+1. What is the difference between encryption and hashing?
+2. How would you implement security measures in a legacy system?
+3. What are your preferred penetration testing tools and why?
+4. Can you explain what a Cross-Site Scripting (XSS) attack is?
+5. How do you stay updated with the latest security threats and technologies?
+6. What do you find most challenging about working in application security?
+7. Describe a significant security flaw you identified and resolved in an application.
+8. What is SQL Injection and how can it be prevented?
+9. Can you explain the principle of least privilege and its importance in application security?
+10. What are the key differences between static and dynamic application security testing?
+11. How would you implement security in a DevOps environment?
+12. Explain the term ‘threat modeling’ and its importance in application security.
+13. What measures would you take to secure an API?
+14. Describe the importance of security in the Software Development Life Cycle (SDLC).
+15. What is a Web Application Firewall (WAF) and how does it work?
+16. How do you ensure secure coding practices in your development process?
+17. What are common security risks associated with mobile applications?
+18. How do you handle patch management in a large-scale application?
+19. What strategies do you use for vulnerability management?
+20. Can you discuss the implementation of Multi-Factor Authentication (MFA) in an application?
+21. What is a buffer overflow and how can it be prevented?
+22. How would you mitigate risks associated with third-party libraries and frameworks?
+23. What is the OWASP Top 10, and why is it important?
+24. Describe a time you had to respond to a security incident.
+25. What is the difference between a security audit and a security assessment?
+26. How do you approach securing serverless architectures?
+27. What are the challenges of implementing Zero Trust architecture in application security?
+28. How do you test for and protect against CSRF attacks?
+29. Can you explain the concept of container security and its challenges?
+30. What best practices do you follow for secure code review?
+
+‍**Advanced Application Security Engineer Interview Questions**
+1. How would you design a security strategy to protect a microservices architecture from both external and internal threats?
+2. Can you discuss the implementation and challenges of using Runtime Application Self-Protection (RASP) in a live environment?
+3. Describe how you would conduct a threat analysis for a cloud-native application. What specific security concerns are most critical?
+4. How would you secure an application against Advanced Persistent Threats (APTs)?
+5. Discuss the implications of quantum computing on current encryption methodologies. How would you prepare an application's security for post-quantum threats?
+
+**Secure Coding related Application Security Engineer Interview Questions**
+1. How would you approach identifying and mitigating security risks in a large, legacy codebase that hasn't been regularly maintained for security?
+2. Can you discuss the use and challenges of incorporating automated security scanning tools within a Continuous Integration/Continuous Deployment (CI/CD) pipeline?
+3. Describe a strategy to ensure secure coding practices in a multi-team development environment, especially when teams are working on interdependent components.
+4. How would you implement and enforce a secure coding standard in a globally distributed development team?
+5. Discuss the implications of memory management vulnerabilities in languages like C and C++ and how to mitigate them.
+
+
+
